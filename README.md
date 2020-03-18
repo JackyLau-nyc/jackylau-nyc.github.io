@@ -1,2 +1,2 @@
 # Web Portfolio
-##### deployed app : https://jackylau-nyc.github.io/
+##### deployed app : jackylau.herokuapp.com
