@@ -48,17 +48,6 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                      <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Birth!   <span>1995</span></h2>
-                        <p>Lucky to be alive and experience all the wonders and joys of the world!</p> 
-                      </div>
-                    </div>
-                  </article>
                 </div>
               </div>
             </div>
