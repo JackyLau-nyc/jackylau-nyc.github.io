@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">Who I Am?</span>
+                    <span className="heading-meta">Who I Am</span>
                     <h2 className="colorlib-heading">Biography</h2>
                     <p>Born in Hong Kong, before moving to San Francisco, and finally settling into New York City, I am a graduate of CUNY Queens College majoring in Computer Science. I love exploring new technologies and am often amazed by the progress we as a human species have made so far in the recent years.</p>
                     <p>Aside from coding, I am obsessed with art and the ability it has to evoke emotion from its viewers. I am always open to learning a new medium (be it drawing, writing, music, botany) and constantly striving to work on myself to be better than I was the previous day.</p>
@@ -26,7 +26,7 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
+                <span className="heading-meta">What I Do</span>
                 <h2 className="colorlib-heading">Here are some of my skills</h2>
             </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Application Development</h3>
-                    <p>Over my internship, I have learned how to create and deploy applications and APIs in the .NET framework</p>
+                    <p>My internships have prepared me on how to create and deploy applications and APIs across various tech stacks.</p>
                 </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Data analytics</h3>
+                    <h3>Data Analytics</h3>
                     <p>I am currently working in Python utilizing tools like Pandas, Seaborn, and scikit-learn to create and train predictive models.</p>
                 </div>
                 </div>
